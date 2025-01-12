@@ -1,0 +1,15 @@
+/Users/elizavetademcenko/MyProjects/ColorProblem/ColorProblem/bin/Debug/net9.0/ColorProblem
+/Users/elizavetademcenko/MyProjects/ColorProblem/ColorProblem/bin/Debug/net9.0/ColorProblem.deps.json
+/Users/elizavetademcenko/MyProjects/ColorProblem/ColorProblem/bin/Debug/net9.0/ColorProblem.runtimeconfig.json
+/Users/elizavetademcenko/MyProjects/ColorProblem/ColorProblem/bin/Debug/net9.0/ColorProblem.dll
+/Users/elizavetademcenko/MyProjects/ColorProblem/ColorProblem/bin/Debug/net9.0/ColorProblem.pdb
+/Users/elizavetademcenko/MyProjects/ColorProblem/ColorProblem/obj/Debug/net9.0/ColorProblem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizavetademcenko/MyProjects/ColorProblem/ColorProblem/obj/Debug/net9.0/ColorProblem.AssemblyInfoInputs.cache
+/Users/elizavetademcenko/MyProjects/ColorProblem/ColorProblem/obj/Debug/net9.0/ColorProblem.AssemblyInfo.cs
+/Users/elizavetademcenko/MyProjects/ColorProblem/ColorProblem/obj/Debug/net9.0/ColorProblem.csproj.CoreCompileInputs.cache
+/Users/elizavetademcenko/MyProjects/ColorProblem/ColorProblem/obj/Debug/net9.0/ColorProblem.sourcelink.json
+/Users/elizavetademcenko/MyProjects/ColorProblem/ColorProblem/obj/Debug/net9.0/ColorProblem.dll
+/Users/elizavetademcenko/MyProjects/ColorProblem/ColorProblem/obj/Debug/net9.0/refint/ColorProblem.dll
+/Users/elizavetademcenko/MyProjects/ColorProblem/ColorProblem/obj/Debug/net9.0/ColorProblem.pdb
+/Users/elizavetademcenko/MyProjects/ColorProblem/ColorProblem/obj/Debug/net9.0/ColorProblem.genruntimeconfig.cache
+/Users/elizavetademcenko/MyProjects/ColorProblem/ColorProblem/obj/Debug/net9.0/ref/ColorProblem.dll

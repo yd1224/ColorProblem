@@ -63,14 +63,20 @@ var regionsList = new List<Region>
 };
 
 
-bool isColored = MapColoring.ColorMap(regionsList);
+// bool isColored = BackTrackingColoring.ColorMap(regionsList);
+
+ bool isColored = BeamSearchColoring.ColorMapWithBeamSearch(regionsList, 21, 2);
 
 if (isColored)
 {
     Console.WriteLine("Regions successfully colored:");
+    
     foreach (var region in regionsList)
     {
         Console.WriteLine($"{region.Name}: {region.Color}");
     }
+    
+    Console.WriteLine($"Iteration: {BeamSearchColoring.iterations}, Total States Generated: {BeamSearchColoring.totalStatesGenerated}, States in Memory: {BeamSearchColoring.statesInMemory}");
+    Console.WriteLine($"Total iterations: {BackTrackingColoring.GetIterationCount()}, Total nodes checked: {BackTrackingColoring.GetTotalNodesChecked()}, Total nodes in memory: {BackTrackingColoring.GetTotalNodesInMemory()}, Dead ends: {BackTrackingColoring.GetDeadEnds()}");
 
 }
